@@ -1,0 +1,23 @@
+{
+  "name": "server-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server-web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vukasheen/sensors.git"
+  },
+  "author": "Vukasin Sadzak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vukasheen/sensors/issues"
+  },
+  "homepage": "https://github.com/vukasheen/sensors#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "mongodb": "^2.2.31"
+  }
+}
